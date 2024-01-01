@@ -32,6 +32,9 @@ Ce projet implémente le "Jeu de la Vie" en utilisant Python et PyQt5 pour la pa
 
 ![image](https://github.com/RafiCHALHOUB/GameOfLife/assets/121952351/684d6e9c-dff0-432d-b474-a9784f924600)
 
+## Comment accéder au code
+
+Le code principal du projet se trouve dans la branche `master`.
 
 ## Contribuer
 
